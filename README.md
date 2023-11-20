@@ -1,1 +1,1 @@
-# goland_seminario
+# GO lang - seminario
